@@ -10,4 +10,4 @@
 
 学校内务管理系统。
 
-![daisy](./assets/daisy.png =200x)
+![daisy](./assets/daisy.png)
