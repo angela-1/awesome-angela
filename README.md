@@ -34,14 +34,14 @@ Win32 C++ 实现的账号管理器，使用 AES 加密 SQLite3 数据文件。
 
 
 
-## [pearblossom](https://github.com/angela-1/pearblossom)
+## [pearblossom](https://github.com/angela-1/pearblossom) 梨花
 
 PDF 文件工具集，可以提取目录，添加页码，添加为偶数页。
 
 ![pearblossom](./assets/pearblossom.png)
 
 
-## [olive](https://github.com/angela-1/olive)
+## [olive](https://github.com/angela-1/olive) 橄榄
 
 学校运动会报名系统，可自动编排比赛分组和打分表。
 
