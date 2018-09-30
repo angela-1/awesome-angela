@@ -6,6 +6,27 @@
 # 项目列表
 
 
+## phoenix 凤凰花
+
+文档管理信息系统。未开源。
+
+![phoenix](./assets/phoenix.png)
+
+## orchid 兰花
+
+各类文档生成工具集。未开源。
+
+![orchid](./assets/orchid.png)
+
+
+## tulip 郁金香
+
+节能项目管理信息系统。未开源。
+
+![tulip](./assets/tulip.png)
+
+
+
 ## [daisy](https://github.com/angela-1/daisy) 雏菊
 
 学校内务管理系统。
