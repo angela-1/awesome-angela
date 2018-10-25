@@ -1,0 +1,24 @@
+{
+  "name": "angela-1.github.io",
+  "version": "1.0.0",
+  "description": "my site on github",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angela-1/angela-1.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angela-1/angela-1.github.io/issues"
+  },
+  "homepage": "https://github.com/angela-1/angela-1.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.4"
+  }
+}
