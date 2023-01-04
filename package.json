@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/angela-1/angela-1.github.io#readme",
   "devDependencies": {
-    "vuepress": "^0.14.4"
+    "vuepress": "^1.9.7"
   }
 }
